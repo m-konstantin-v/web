@@ -21,7 +21,7 @@
 - Таблица google sheets с баг-репортами. <br>
   [Баг-репорты](https://docs.google.com/spreadsheets/d/1O1KP0rok2-2D1IU6N4IQIR8fVpAH1MGfOr3ZuuuwA0M/edit?usp=sharing)
 
-- Ссылка на скриншоты к баг-репортам на google drive <br>
+- Ссылка на скриншоты к баг-репортам на google drive. <br>
   [Вложения](https://drive.google.com/drive/folders/1xQpavRVQmHFDCo3-61Z8JB-XgkKyQNBu?usp=sharing)
 
 ##  Перехват трафика
